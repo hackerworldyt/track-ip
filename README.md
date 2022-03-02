@@ -34,7 +34,7 @@ apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track
 <p align="center">
 <img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/trackip.png"/>
 
-### <<< If you copy , Then Give me The Credits >>>
+### <<< If you copy , Then Give me The Credits 🙃>>>
 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
